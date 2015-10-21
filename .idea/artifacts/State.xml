@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="State">
+    <output-path>$PROJECT_DIR$/out/artifacts/State</output-path>
+    <root id="archive" name="State.jar">
+      <element id="module-output" name="QuantumVisualiser" />
+      <element id="library" level="project" name="JTransforms-3.0-javadoc" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/lib/junit-4.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/lib/hamcrest-core-1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/lib/hamcrest-library-1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Libraries/JLargeArrays-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JTransforms-3.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

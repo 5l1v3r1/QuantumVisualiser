@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="StateJavaFX">
+    <output-path>$PROJECT_DIR$/out/artifacts/StateJavaFX</output-path>
+    <root id="root">
+      <element id="archive" name="State.jar">
+        <element id="module-output" name="QuantumVisualiser" />
+      </element>
+    </root>
+  </artifact>
+</component>
